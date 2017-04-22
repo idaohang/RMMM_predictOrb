@@ -1,0 +1,121 @@
+﻿生成启动时间为 4/22/2017 8:29:16 AM。
+     1>项目“E:\11月27日\A与相对状态使方差分离20170221动力学模型预报精度\SATODS(DF)\SATODS(DF).vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\SATODS(DF).unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SATODS.cpp
+         SATODS.cpp
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(114): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(116): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(119): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(193): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(194): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(195): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(196): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(203): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(211): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(213): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(287): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(288): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(291): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(292): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(294): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(398): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(399): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(156): warning C4101: “h”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(141): warning C4101: “Record_A”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(133): warning C4101: “dRTN”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(146): warning C4101: “PSPR_A”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(157): warning C4101: “CurrStat”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(144): warning C4101: “ObsTypeList_B”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(131): warning C4101: “transXYZV”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(146): warning C4101: “PSPR_B”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(144): warning C4101: “ObsTypeList_A”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(141): warning C4101: “Record_B”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(129): warning C4101: “flag”: 未引用的局部变量
+     1>e:\11月27日\a与相对状态使方差分离20170221动力学模型预报精度\satods(df)\satods.cpp(132): warning C4101: “dXYZ”: 未引用的局部变量
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\11月27日\A与相对状态使方差分离20170221动力学模型预报精度\Debug\SATODS(DF).exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\SATODS(DF).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\11月27日\A与相对状态使方差分离20170221动力学模型预报精度\Debug\SATODS(DF).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\11月27日\A与相对状态使方差分离20170221动力学模型预报精度\Debug\SATODS(DF).lib" /MACHINE:X86 "Debug\SATODS(DF).exe.embed.manifest.res"
+         Debug\CommonFuncs.obj
+         Debug\DataProcess.obj
+         Debug\DynaModel.obj
+         Debug\EKFilter.obj
+         Debug\EphProc.obj
+         Debug\GPSTime.obj
+         Debug\OrbitInteg.obj
+         Debug\OrbParaTran.obj
+         Debug\outFormat.obj
+         Debug\PhaseCent_Cor.obj
+         Debug\qualityCheck.obj
+         Debug\ReadLevel1B.obj
+         Debug\ReadObs.obj
+         Debug\ReadPreOrbit.obj
+         Debug\RefSys.obj
+         Debug\RTOD.obj
+         Debug\SATODS.obj
+         Debug\Trace.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SATODS(DF).exe.embed.manifest" /manifest "Debug\SATODS(DF).exe.intermediate.manifest" "e:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         SATODS(DF).vcxproj -> E:\11月27日\A与相对状态使方差分离20170221动力学模型预报精度\Debug\SATODS(DF).exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\SATODS(DF).unsuccessfulbuild”。
+         正在对“Debug\SATODS(DF).lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\11月27日\A与相对状态使方差分离20170221动力学模型预报精度\SATODS(DF)\SATODS(DF).vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.70
